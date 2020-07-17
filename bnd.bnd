@@ -1,0 +1,4 @@
+Bundle-Name: MyServeResourceExample
+Bundle-SymbolicName: MyServeResourceExample
+Bundle-Version: 1.0.0
+Export-Package: MyServeResourceExample.constants
